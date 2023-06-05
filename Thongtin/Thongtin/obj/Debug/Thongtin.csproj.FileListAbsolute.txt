@@ -1,0 +1,8 @@
+D:\cs\Thongtin\Thongtin\bin\Debug\Thongtin.exe.config
+D:\cs\Thongtin\Thongtin\bin\Debug\Thongtin.exe
+D:\cs\Thongtin\Thongtin\bin\Debug\Thongtin.pdb
+D:\cs\Thongtin\Thongtin\obj\Debug\Thongtin.csproj.AssemblyReference.cache
+D:\cs\Thongtin\Thongtin\obj\Debug\Thongtin.csproj.SuggestedBindingRedirects.cache
+D:\cs\Thongtin\Thongtin\obj\Debug\Thongtin.csproj.CoreCompileInputs.cache
+D:\cs\Thongtin\Thongtin\obj\Debug\Thongtin.exe
+D:\cs\Thongtin\Thongtin\obj\Debug\Thongtin.pdb

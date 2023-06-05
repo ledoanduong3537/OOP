@@ -1,0 +1,8 @@
+D:\cs\truyvanlinq\truyvanlinq\bin\Debug\truyvanlinq.exe.config
+D:\cs\truyvanlinq\truyvanlinq\bin\Debug\truyvanlinq.exe
+D:\cs\truyvanlinq\truyvanlinq\bin\Debug\truyvanlinq.pdb
+D:\cs\truyvanlinq\truyvanlinq\obj\Debug\truyvanlinq.csproj.AssemblyReference.cache
+D:\cs\truyvanlinq\truyvanlinq\obj\Debug\truyvanlinq.csproj.SuggestedBindingRedirects.cache
+D:\cs\truyvanlinq\truyvanlinq\obj\Debug\truyvanlinq.csproj.CoreCompileInputs.cache
+D:\cs\truyvanlinq\truyvanlinq\obj\Debug\truyvanlinq.exe
+D:\cs\truyvanlinq\truyvanlinq\obj\Debug\truyvanlinq.pdb
